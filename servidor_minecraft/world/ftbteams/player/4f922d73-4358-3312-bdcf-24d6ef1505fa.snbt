@@ -1,0 +1,17 @@
+{
+	id: "4f922d73-4358-3312-bdcf-24d6ef1505fa"
+	type: "player"
+	player_name: "Saijaxe"
+	ranks: {
+		4f922d73-4358-3312-bdcf-24d6ef1505fa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Saijaxe"
+		"ftbteams:description": ""
+		"ftbteams:color": "#67FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

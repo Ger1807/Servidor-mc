@@ -1,0 +1,17 @@
+{
+	id: "eba29bb9-1599-3feb-8d88-226c60cb5d5c"
+	type: "player"
+	player_name: "Niwde"
+	ranks: {
+		eba29bb9-1599-3feb-8d88-226c60cb5d5c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Niwde"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF6B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

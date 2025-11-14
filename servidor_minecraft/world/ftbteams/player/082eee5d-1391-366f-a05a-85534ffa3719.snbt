@@ -1,0 +1,17 @@
+{
+	id: "082eee5d-1391-366f-a05a-85534ffa3719"
+	type: "player"
+	player_name: "X_xgermox_X"
+	ranks: {
+		082eee5d-1391-366f-a05a-85534ffa3719: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "X_xgermox_X"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

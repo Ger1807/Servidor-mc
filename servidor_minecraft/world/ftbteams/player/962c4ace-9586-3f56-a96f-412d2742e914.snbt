@@ -1,0 +1,17 @@
+{
+	id: "962c4ace-9586-3f56-a96f-412d2742e914"
+	type: "player"
+	player_name: "dvnee"
+	ranks: {
+		962c4ace-9586-3f56-a96f-412d2742e914: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "dvnee"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
